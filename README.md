@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Sinyoung Park 👋  
+Data & Machine Learning Engineer | Turning data into actionable insights
 
-<!--
-**sp930-x/sp930-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Sc. in Data Science & AI  
+🔧 Focused on Data Engineering and Machine Learning  
+📍 Essen, Germany (open to relocation)  
+💼 Open to: Data Engineer | Machine Learning Engineer  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💾 Data Engineering:**  
+- **Cloud:** Azure (Data Factory, Databricks, Synapse, Data Lake), AWS  
+- **Processing:** Apache Spark, Python, SQL  
+- **Tools:** Git, Docker  
+
+**🤖 Machine Learning / Data Science:**  
+- **Languages:** Python  
+- **Frameworks:** TensorFlow, PyTorch, Scikit-learn  
+- **Libraries:** Pandas, NumPy  
+- **Tools:** MLflow, DVC, Git
