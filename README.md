@@ -11,7 +11,9 @@ Data & Machine Learning Engineer | Turning data into actionable insights
 **💾 Data Engineering:**  
 - **Cloud:** Azure (Data Factory, Databricks, Synapse, Data Lake), AWS, MongoDB  
 - **Processing:** Apache Spark, Python, SQL  
-- **Tools:** Git, Docker  
+- **Tools:** Git, Docker
+- Orchestration & Transformation: Apache Airflow, dbt
+  
 
 **🤖 Machine Learning / Data Science:**  
 - **Languages:** Python  
